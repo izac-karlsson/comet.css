@@ -1,7 +1,7 @@
 # comet.css
 ### The barebone grid framework
 
-[![Built with Sass](https://i.imgur.com/vWQ3UAv.png)](https://sass-lang.com/)
+[![Built with Sass](https://i.imgur.com/Vz0XYB7.png)](https://sass-lang.com)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/izac-karlsson/comet.css)
 
